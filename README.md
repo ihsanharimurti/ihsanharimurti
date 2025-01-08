@@ -26,7 +26,7 @@ Here are some of the projects I'm proud of:
 
 ### 🛠️ Skills and Tools
 Here’s what I’ve been working with:  
-- **Programming Languages**: Kotlin, Python, Verilog, C++  
+- **Programming Languages**: Kotlin, Python, C++, C, Java, Verilog, SQL   
 - **Frameworks and Libraries**: OpenCV, YOLO, Retrofit  
 - **Hardware**: NVIDIA Jetson TX2, Arduino, ESP32, Pixhawk  
 - **Other Tools**: ROS2, SQL, Git, Ubuntu Linux  
