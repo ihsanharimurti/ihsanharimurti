@@ -35,8 +35,8 @@ Here’s what I’ve been working with:
 
 ### 📬 Let's Connect!
 - **Portfolio**: [My Personal Website](https://ihsanharimurti.github.io/Portfolio/)  
-- **LinkedIn**: [Ihsan Harimurti](https://www.linkedin.com/in/ihsan-harimurti/)  
-- **Email**: [ihsan@example.com](mailto:harimurti114@gmail.com)  
+- **LinkedIn**: [Ihsan Harimurti](https://www.linkedin.com/in/ihsanharimurti/)  
+- **Email**: [harimurti114@gmail](mailto:harimurti114@gmail.com)  
 - **WhatsApp**: [Chat with me](https://wa.me/+6285211131190)  
 
 Feel free to reach out to discuss projects, opportunities, or just to say hi! 😊  
