@@ -17,7 +17,7 @@ Currently, I'm focused on building projects that combine **software and hardware
 
 ### 💼 Projects and Highlights
 Here are some of the projects I'm proud of:  
-- 🤖 **Automatic Surface Vessel (ASV)**: A robotic vessel with object detection using YOLO and GPS waypoint navigation.  
+- 🤖 **Autonomous Surface Vessel (ASV)**: A robotic vessel with object detection using YOLO and GPS waypoint navigation.  
 - 📱 **Skintone Harmony**: An AI-based mobile app that detects skin tone, developed as part of Bangkit Academy 2024.  
 - 🕹️ **4-DOF Robotic Arm**: A robotic arm prototype built with ESP32 and controlled via ROS2.  
 - 💻 **GitHub Friend App**: A Kotlin-based app to browse GitHub users, with dark mode and favorite user features.  
