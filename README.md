@@ -1,53 +1,50 @@
 # Hi there, I'm Ihsan Harimurti! 👋
 
 Welcome to my GitHub profile!  
-I'm a **Computer Engineering student** at Diponegoro University with a strong passion for **Robotics, IoT, Embedded Systems, and Mobile Development**. 🚀  
-Currently, I'm focused on building projects that combine **software and hardware** to solve real-world problems.  
+I'm a **Computer Engineering graduate** from Diponegoro University passionate about **Embedded Systems, Robotics, IoT, and Mobile Development**. 🚀  
+I enjoy building impactful projects that bridge hardware and software to solve real-world problems.
 
 ---
 
 ### 🌟 About Me
-- 🎓 **Final Year Student**, graduating in 2025.
-- 💡 **Aspiring Embedded & Mobile Engineer** with interests in robotics, IoT, and Android development.
-- 🔍 Currently exploring opportunities in **IoT**, **robotics**, and **mobile development**.
-- 📚 Lifelong learner diving into books like *The Black Swan* by Nassim Nicholas Taleb.
-- 🛠️ **Technologies I love**: ROS2, Arduino, NVIDIA Jetson TX2, YOLO, Kotlin, and Verilog.
+- 🎓 Graduated in 2025 from Diponegoro University, majoring in Computer Engineering (GPA: 3.86/4.00).
+- 🤖 Robotics & Embedded Systems enthusiast with hands-on experience in ROS2, Jetson TX2, and sensor integration.
+- 📱 Skilled in Android Development using Kotlin, Jetpack, and MVVM architecture.
+- 🌐 Experienced in IoT and DevOps: RS485, Modbus, AWS, CI/CD pipelines, and cloud monitoring.
+- 📚 Lifelong learner — currently reading *The Black Swan* by Nassim Nicholas Taleb.
 
 ---
 
 ### 💼 Projects and Highlights
-Here are some of the projects I'm proud of:  
-- 🤖 **Autonomous Surface Vessel (ASV)**: A robotic vessel with object detection using YOLO and GPS waypoint navigation.  
-- 📱 **Skintone Harmony**: An AI-based mobile app that detects skin tone, developed as part of Bangkit Academy 2024.  
-- 🕹️ **4-DOF Robotic Arm**: A robotic arm prototype built with ESP32 and controlled via ROS2.  
-- 💻 **GitHub Friend App**: A Kotlin-based app to browse GitHub users, with dark mode and favorite user features.  
-- 📲 **StoryApp**: A social media-like Android app with authentication, API integration, and data storage using Kotlin.  
+- 🚤 **Autonomous Surface Vessel (ASV)**: Robotic vessel with object detection (YOLO), GPS waypoint navigation, and real-time telemetry.
+- 🎨 **Skintone Harmony**: AI-powered mobile app for skin tone detection (Bangkit 2024 capstone).
+- 🦾 **4-DOF Robotic Arm**: Controlled via ROS2 using ESP32 and inverse kinematics.
+- 💬 **GitHub Friend App**: Kotlin app to explore GitHub users with dark mode and favorites.
+- 📖 **StoryApp**: Android app with authentication, REST API integration, and clean architecture.
 
 ---
 
 ### 🛠️ Skills and Tools
-Here’s what I’ve been working with:  
-- **Programming Languages**: Kotlin, Python, C++, C, Java, Verilog  
-- **Mobile Development**: Android (Jetpack Compose, Retrofit, DataStore, Room)  
-- **Frameworks and Libraries**: OpenCV, YOLO, Retrofit  
-- **Hardware**: NVIDIA Jetson TX2, Arduino, ESP32, Pixhawk  
-- **Other Tools**: ROS2, SQL, Git, Ubuntu Linux  
+- **Languages**: Kotlin, Python, C++, C, Java, Verilog  
+- **Mobile Dev**: Android Jetpack (Compose, Room, Retrofit), MVVM, Firebase  
+- **Embedded & IoT**: Arduino, ESP32, RS485, Modbus, OpenCV, YOLO, Jetson TX2  
+- **Tools**: ROS2, SQL, Git, Docker, Jenkins, Grafana, AWS, Linux  
 
 ---
 
 ### 📬 Let's Connect!
-- **Portfolio**: [My Personal Website](https://ihsanharimurti.github.io/Portfolio/)  
-- **LinkedIn**: [Ihsan Harimurti](https://www.linkedin.com/in/ihsanharimurti/)  
-- **Email**: [harimurti114@gmail](mailto:harimurti114@gmail.com)  
-- **WhatsApp**: [Chat with me](https://wa.me/+6285211131190)  
+- 🌐 **Portfolio**: [ihsanharimurti.github.io/Portfolio](https://ihsanharimurti.github.io/Portfolio/)  
+- 💼 **LinkedIn**: [linkedin.com/in/ihsanharimurti](https://www.linkedin.com/in/ihsanharimurti/)  
+- 📧 **Email**: [ihsan.harimurti.dev@gmail.com](mailto:ihsan.harimurti.dev@gmail.com)  
+- 💬 **WhatsApp**: [Chat with me](https://wa.me/+6285211131190)  
 
-Feel free to reach out to discuss projects, opportunities, or just to say hi! 😊  
+Feel free to reach out for collaborations, opportunities, or just to connect! 😊
 
 ---
 
 ### 🌱 Fun Facts
-- 🌏 I love combining **technology and creativity** to make a real impact.  
-- 📖 Always on the lookout for books and ideas that challenge my perspective.  
-- 🎯 Goal: Becoming a professional **Embedded & Mobile Engineer** and contributing to cutting-edge solutions.  
+- 💡 Passionate about turning innovative ideas into working systems.
+- 🔬 Enjoy experimenting with new tech stacks in robotics and embedded systems.
+- 🎯 Career goal: Become a professional **Embedded & Mobile Engineer** solving impactful problems.
 
-Thanks for stopping by! Don’t forget to check out my repositories. 🌟  
+Thanks for visiting — don’t forget to explore my repositories! 🌟
